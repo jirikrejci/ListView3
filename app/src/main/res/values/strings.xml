@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ListView 3</string>
+
+    <string-array name="data_verze_array">
+        <item>Android 1.5 Cupcake</item>
+        <item>Android 1.6 Donut</item>
+        <item>Android 2.0 Eclair</item>
+        <item>Android 2.1 Eclair</item>
+        <item>Android 2.2 Froyo</item>
+        <item>Android 2.3 Gingerbread</item>
+        <item>Android 1.5 Cupcake</item>
+        <item>Android 3.1 Honeycomb</item>
+        <item>Android 3.2 Honeycomb</item>
+        <item>Android 4.0 Ice Cream</item>
+        <item>Android 4.1 Jelly Bean</item>
+        <item>Android 4.2 Jelly Bean</item>
+        <item>Android 4.3 Jelly Bean</item>
+        <item>Android 4.4 KitKat</item>
+        <item>Android 5.0 Lollipop</item>
+
+    </string-array>
+</resources>
